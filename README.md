@@ -1,6 +1,6 @@
 # Projeto de Check-in/Check-Out
 
-Este é um projeto desenvolvido em Java para criar um sistema de reserva de códigos, com o tratamento de exceções adequado.
+Este é um projeto desenvolvido em Java para criar um sistema de reserva de hotel, com o tratamento de exceções adequado.
 
 # Ferramentas Utilizadas
 
@@ -50,7 +50,7 @@ Contribuições para a melhoria do projeto são sempre bem-vindas. Se você iden
 
 # Check-in/Check-Out Project
 
-This is a Java project to create a code reservation system with proper exception handling.
+This is a project developed in Java to create a hotel reservation system, with treatment according to the standards.
 
 # Tools Used
 
@@ -58,7 +58,7 @@ Java
 
 Eclipse IDE
 
-#Features
+# Features:
 
 The project has the following features:
 
